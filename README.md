@@ -11,3 +11,8 @@ This project is powered by my custom game engine:
 The engine handles rendering, input, audio, and asset management.
 
 ---
+### Build and Use:
+
+	1. Download and Extract the zip folder.
+	2. Open the Run folder.
+	3. Double-click SDFVisualizer_Release_x64.exe to start the program.
